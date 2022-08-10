@@ -117,6 +117,13 @@
   > 1. .. ing
 
 </details>
+
+<details>
+  <summary><h3>9. "객체지향의 사실과 오해", "오브젝트" 도서 학습 기록</h3></summary>
+<div markdown="1">
+  > 1.. ing
+</details>
+
 <br>
 <br>
 오늘 하루도 공부할 수 있어 크게 감사합니다. 2022-08-10
