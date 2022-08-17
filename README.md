@@ -1,4 +1,4 @@
-# A_LearningRecord
+# A_LearningRecord  [모의 면접용]
 학습 기록에 대한 로그를 남기기 위한 저장소입니다.
 
 
@@ -47,26 +47,15 @@
   > 4. [BeanFactory와 ApplicationContext](https://blog.naver.com/cksgurwkd12/222844390001)
   > 5. [ApplicationContext의 다양한 설정 형식 지원 (java code, XML)](https://blog.naver.com/cksgurwkd12/222844406617)
   > 6. [스프링 빈 설정 메타 정보 (BeanDefinition)](https://blog.naver.com/cksgurwkd12/222844413913)
-</details>
-  
- 
-<details>
-  <summary><h3>3. 스프링 MVC 학습 기록</h3></summary>
-<div markdown="3">
-  
-> 1. .. ing
-
-</details>
- 
-<details>
-  <summary><h3>4. 테스트 코드 학습 기록</h3></summary>
-<div markdown="4">  
-  > 1.  .. ing
+  > 7. [웹 애플리케이션과 싱글톤](https://blog.naver.com/cksgurwkd12/222848936082)
+  > 8. [싱글톤 컨테이너가 기존 싱글톤 방식의 어떤 문제를 해결하는가](https://blog.naver.com/cksgurwkd12/222849107572)
+  > 9. [싱글톤 방식의 주의점](https://blog.naver.com/cksgurwkd12/222849244770)
+  > 10. [@Configuration의 비밀(Configuration과 싱글톤)](https://blog.naver.com/cksgurwkd12/222849388801)
 </details>
   
   
 <details>
-  <summary><h3>5. OOP 학습 기록</h3></summary>
+  <summary><h3>3. OOP 학습 기록</h3></summary>
 <div markdown="5">  
   
   > 1. [의존성 주입이 필요한 이유(1) - OCP와 다형성](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222797015280&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
@@ -74,56 +63,25 @@
   > 3. [자바에서의 DIP(의존관계 역전 원칙)와 OCP(개방 폐쇄 원칙), SRP(단일책임 원칙) 적용 use_case.](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222839940770&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
   > 4. [제어의 역전 IoC (Inversion of Control), 정적인 클래스 의존관계와 동적인 객체 의존관계](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222842460531&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
 </details>
-
+ 
+ 
 <details>
-  <summary><h3>6. 도커와 서버 기술 학습 기록</h3></summary>
-<div markdown="5"> 
-  
-  > 1. [install docker in ubuntu 20.04](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222629594453&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=15&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=15)
-  > 2. [[Docker] 주요 명령(1) - Docker image](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222695617901&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=14&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=14)
-  > 3. [[Docker] 주요 명령(2) - Container 생성, 조회, 삭제](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222696019104&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=14&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=14)
-  > 4. [[Docker] 주요 명령(3) - Container 실행(start)](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222696232092&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=14&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=14)
-  > 5. [[Docker] 주요 명령(4) - Container 실행(run)과 가비지 컬렉팅](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222696314702&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=13&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=13)
-  > 6. [[Docker] 주요 명령(5) - Container 상태 관리 (stop, pause)](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222696341959&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=13&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=13)
-  > 7. [[Docker] 주요 명령(6) - Container -p option을 통한 포트 포워딩](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222696396426&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=13&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=13)
-  > 8. [[Docker] 주요 명령(7) - run -v 옵션을 이용한 특정 폴더 바인딩](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222696932411&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=13&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=13)
-  > 9. [[Docker] 주요 명령(8) - docker system df](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222697019072&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=13&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=13)
-  > 10. [[Docker] 주요 명령(9) -실행중인 컨테이너 관리](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222697066711&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=12&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=12)
-  > 11. [[Docker] Dockerfile script를 이용한 이미지 생성](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222697631963&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=12&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=12)
-  > 12. [[Docker] Dockerfile의 Label (dicription)](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222697916717&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=11&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=11)
-  > 13. [[Docker] Dockerfile의 COPY](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222697976106&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=11&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=11)
-  > 14. [[Docker] docker logs, kill](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698068391&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=11&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=11)
-  > 15. [[Docker] Dockerfile의 ENTRYPOINT](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698121105&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=11&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=11)
-  > 16. [[Docker] Dockerfile 안에서의 RUN [apache image 구현]](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698145474&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=11&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=11)
-  > 17. [[Docker] Dockerfile 안에서의 EXPOSE](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698158404&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=10&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=10)
-  > 18. [[Docker] Dockerfile 안에서의 ENV](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698168751&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=10&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=10)
-  > 19. [[Docker] 도커 컨테이너와 이미지 조사](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698181780&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=10&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=10)
-  > 20. [[Docker] 컨테이너 활용과 연결 (Jupyter notebook-mysql)](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698670903&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=10&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=10)
-  > 21. [[Docker] --link 옵션 활용](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222698691610&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=10&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=10)
-  > 22. [[Docker] Spring, flask, mysql 컨테이너 다루기](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222781422773&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
-  > 23. [[Docker] 리눅스 환경에서 docker compose 연동하기](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222783067870&categoryNo=44&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
-  
+  <summary><h3>4. 스프링 시큐리티 학습 기록</h3></summary>
+<div markdown="6">
+
+  > 1. [스프링 시큐리티 너 잠깐 나좀 보자 시리즈(1)-스프링시큐리티의 큰 그림](https://blog.naver.com/cksgurwkd12/222850279967)
+  > 2. [스프링 시큐리티 너 잠깐 나좀 보자 시리즈(2)-스프링 시큐리티의 로그인 구조](https://blog.naver.com/cksgurwkd12/222850247086)
 </details>
   
 <details>
-  <summary><h3>7. JPA학습 기록</h3></summary>
-<div markdown="5"> 
-  > 1. .. ing
-</details>
-  
-<details>
-  <summary><h3>8. 스프링 시큐리티 학습 기록</h3></summary>
-<div markdown="5"> 
-  > 1. .. ing
+  <summary><h3>5. 자바 구조 학습 기록</h3></summary>
+<div markdown="6">
 
+  > 1. [자바 코드를 조작하는 다양한 방법 기록(1) - JVM, JDK 그리고 JRE](https://blog.naver.com/cksgurwkd12/222851226744)
+  > 2. [자바 코드를 조작하는 다양한 방법 기록(2)](https://blog.naver.com/cksgurwkd12/222851282273)
 </details>
 
-<details>
-  <summary><h3>9. "객체지향의 사실과 오해", "오브젝트" 도서 학습 기록</h3></summary>
-<div markdown="1">
-  > 1.. ing
-</details>
 
 <br>
 <br>
-오늘 하루도 공부할 수 있어 크게 감사합니다. 2022-08-10
+오늘 하루도 공부할 수 있어 크게 감사합니다. 2022-08-18
