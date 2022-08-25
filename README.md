@@ -89,7 +89,7 @@
 
 <details>
   <summary><h3>6. 객체지향의 사실과 오해, Object 독서 기록</h3></summary>
-<div markdown="1">
+<div markdown="7">
 
   > 1. [[OOP] 객체지향의 사실과 오해 정리(0) 개요](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222845324298&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
   > 2. [[OOP] "객체지향의 사실과 오해" 정리(1) - 실용 관점의 객체지향에 대한 올바른 설명: 8%](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222853324721&parentCategoryNo=&categoryNo=47&viewDate=&isShowPopularPosts=false&from=postList)
@@ -98,6 +98,30 @@
 </details>
 
 
+  
+  
+  
+  
+  
+<details>
+  <summary><h3>0. 에러 로그</h3></summary>
+<div markdown="8">
+
+  > 1. [[SPRING ERROR: about bean] expected single bean but found 2: ~](https://blog.naver.com/cksgurwkd12/222858397767)
+  > 2. [[SPRING ERROR: about bean] No bean named 'beanB' available ](https://blog.naver.com/cksgurwkd12/222858385878)
+  > 3. [[에러 로그] nvm use 에러 ](https://blog.naver.com/cksgurwkd12/222851875874)
+  > 4. [[에러 로그] gradle compile 관련 에러](https://blog.naver.com/cksgurwkd12/222849765192)
+  > 5. [[SPRING ERROR] org.springframework.context ~@1852a3ff has not been refreshed yet](https://blog.naver.com/cksgurwkd12/222843096630)
+  > 6. [[ERROR_LOG] Exception in thread "main" java.lang.NoSuchMethodError: org.hibernate~](https://blog.naver.com/cksgurwkd12/222808251170)
+  > 7. [[에러 로그] 'ResponseLocationDTO(java.util.ArrayList<java.lang.String>)' is not public in](https://blog.naver.com/cksgurwkd12/222774853778)
+  > 8. [[Jackson] ObjectMapper 사용법이 바꼈어 임마~](https://blog.naver.com/cksgurwkd12/222758174006)
+  > 9. [[Error Log] Cannot resolve method 'assertThat' in 'Assertions'](https://blog.naver.com/cksgurwkd12/222737841456)
+  > 10. [[PEM ERROR] UNPROTECTED PRIVATE KEY FILE!](https://blog.naver.com/cksgurwkd12/222734604960)
+  > 11. [[Error Log] $.cookie is not a function 에러](https://blog.naver.com/cksgurwkd12/222724340184)
+  > 12. [[Error] 우분투 iptables PREROUTING 중첩 에러](https://blog.naver.com/cksgurwkd12/222700968102)
+  
+</details>  
+  
 <br>
 <br>
 오늘 하루도 공부할 수 있어 크게 감사합니다. 2022-08-18
