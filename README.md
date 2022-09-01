@@ -3,7 +3,7 @@
 
 
 <details>
-  <summary><h3>1. HTTP 학습 기록</h3></summary>
+  <summary><h3>1. HTTP 학습 기록 完</h3></summary>
 <div markdown="1">
 
 > 1. [HTTP 넌 죽었다 시리즈 (1) 인터넷 네트워크- IP](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222787802714&categoryNo=17&parentCategoryNo=0&viewDate=&currentPage=6&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=6) (개요)
@@ -38,7 +38,7 @@
   
 
 <details>
-  <summary><h3>2. 스프링 핵심 원리 학습 기록</h3></summary>
+  <summary><h3>2. 스프링 핵심 원리 학습 기록 完</h3></summary>
 <div markdown="2">
   
   > 1. [[SPRING-CORE] 스프링 컨테이너와 스프링 빈 시리즈 (1) - 순수한 자바 코드를 이용한 DI에서 스프링을 이용한 DI로](https://blog.naver.com/cksgurwkd12/222844316041)
