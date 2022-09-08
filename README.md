@@ -115,7 +115,18 @@
   > 4. [[OOP] "객체지향의 사실과 오해" 정리(3) - 이상한 나라의 객체  :22%](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222854604359&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
 </details>
 
+<details>
+  <summary><h3>7. 스프링 MVC 학습 기록</h3></summary>
+<div markdown="6">
 
+  > 1. [[SPRING-MVC] 웹 애플리케이션의 이해 시리즈(1) - 웹서버와 웹 애플리케이션 서버](https://blog.naver.com/cksgurwkd12/222865223968)
+  > 2. [[SPRING-MVC] 웹 애플리케이션의 이해 시리즈(2) - 서블릿](https://blog.naver.com/cksgurwkd12/222865223968)
+  > 3. [[SPRING-MVC] 웹 애플리케이션의 이해 시리즈(3) - 동시 요청: 멀티 쓰레드](https://blog.naver.com/cksgurwkd12/222865223968)
+  > 4. [[SPRING-MVC] 웹 애플리케이션의 이해 시리즈(4) - 자바 백엔드 웹 기술 역사 完](https://blog.naver.com/cksgurwkd12/222866919522)
+  > 5. [[SPRING-MVC] 서블릿만 이용해 웹 개발 시리즈 (0) - 프로젝트 세팅](https://blog.naver.com/cksgurwkd12/222866958510)
+  > 6. [[SPRING-MVC] 서블릿만 이용해 웹 개발 시리즈 (1) - 서블릿 환경 세팅](https://blog.naver.com/cksgurwkd12/222867673527)
+  > 7. [[SPRING-MVC] 서블릿만 이용해 웹 개발 시리즈 (2) - HttpServletRequest (이론)](https://blog.naver.com/cksgurwkd12/222868419403)
+</details>
   
   
   
