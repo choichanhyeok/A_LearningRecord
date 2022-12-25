@@ -117,7 +117,7 @@
 
 <details>
   <summary><h3>7. 스프링 MVC 학습 기록</h3></summary>
-<div markdown="6">
+<div markdown="8">
 
   > 1. [[SPRING-MVC] 웹 애플리케이션의 이해 시리즈(1) - 웹서버와 웹 애플리케이션 서버](https://blog.naver.com/cksgurwkd12/222865223968)
   > 2. [[SPRING-MVC] 웹 애플리케이션의 이해 시리즈(2) - 서블릿](https://blog.naver.com/cksgurwkd12/222865223968)
@@ -165,7 +165,21 @@
   
 </details>
   
-  
+
+<details>
+  <summary><h3>8. 운영체제</h3></summary>
+<div markdown="9">
+
+  > 1. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(0) - 시리즈 작성의 이유, 운영체제란](https://blog.naver.com/cksgurwkd12/222938944676)
+  > 2. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(1) - 운영체제가 하는 일 (아주아주 간략하게만)](https://blog.naver.com/cksgurwkd12/222939328469)
+  > 3. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(2) - 운영체제의 역사](https://blog.naver.com/cksgurwkd12/222939375912)
+  > 4. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(3) - 운영체제의 구조](https://blog.naver.com/cksgurwkd12/222939394109)
+  > 5. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(4) - 애니악에서 폰노이만 구조로](https://blog.naver.com/cksgurwkd12/222945761933)
+  > 6. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(5) - CPU의 구조와 메모리의 종류 (간략히)](https://blog.naver.com/cksgurwkd12/222945791232)
+  > 7. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(7) - 프로세스에 대해서 (프로세스, 메모리, 프로그램, CPU)](https://blog.naver.com/cksgurwkd12/222959156424)
+  > 8. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(8) - 유니 프로그래밍, 멀티 프로그래밍, 멀티 프로세싱](https://blog.naver.com/cksgurwkd12/222959233314)
+  > 9. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(9) - PCB의 요소와 프로세스 상태](https://blog.naver.com/cksgurwkd12/222959273917)
+</details>
   
   
   
