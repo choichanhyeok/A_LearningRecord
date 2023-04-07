@@ -2,7 +2,7 @@
 학습 기록에 대한 로그를 남기기 위한 저장소입니다.
 
 
-<details>
+
   <summary><h3>1. HTTP 학습 기록 完</h3></summary>
 <div markdown="1">
 
@@ -34,10 +34,10 @@
 > 26. [HTTP 넌 죽었다 시리즈 (26) 캐시와 조건부 요청 헤더](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222835930486&categoryNo=17&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
 > 27. [HTTP 넌 죽었다 시리즈 (27) 프록시 캐시](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222835939638&categoryNo=17&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
 > 28. [HTTP 넌 죽었다 시리즈 (28) 캐시 무효화 (完)](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222835953790&categoryNo=17&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
-</details>
+
   
 
-<details>
+
   <summary><h3>2. 스프링 핵심 원리 학습 기록 完</h3></summary>
 <div markdown="2">
   
@@ -75,10 +75,10 @@
   >32. [[SPRING-CORE] 빈 스코프 시리즈(5) - 웹 스코프: Request 스코프 이해하기 (Provider을 이용한)](https://blog.naver.com/cksgurwkd12/222864557375)
   >33. [[SPRING-CORE] 빈 스코프 시리즈(6) - 스코프와 프록시: 개발자들은 ObjectProvider 마저도 줄이고 싶다.完](https://blog.naver.com/cksgurwkd12/222864565509)
   
-</details>
+
   
   
-<details>
+
   <summary><h3>3. OOP 학습 기록</h3></summary>
 <div markdown="5">  
   
@@ -86,26 +86,26 @@
   > 2. [의존성 주입이 필요한 이유(2) - OCP와 IOC (Bean 등록을 통한 구분 확인)](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222797015280&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
   > 3. [자바에서의 DIP(의존관계 역전 원칙)와 OCP(개방 폐쇄 원칙), SRP(단일책임 원칙) 적용 use_case.](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222839940770&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
   > 4. [제어의 역전 IoC (Inversion of Control), 정적인 클래스 의존관계와 동적인 객체 의존관계](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222842460531&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
-</details>
+
  
  
-<details>
+
   <summary><h3>4. 스프링 시큐리티 학습 기록</h3></summary>
 <div markdown="6">
 
   > 1. [스프링 시큐리티 너 잠깐 나좀 보자 시리즈(1)-스프링시큐리티의 큰 그림](https://blog.naver.com/cksgurwkd12/222850279967)
   > 2. [스프링 시큐리티 너 잠깐 나좀 보자 시리즈(2)-스프링 시큐리티의 로그인 구조](https://blog.naver.com/cksgurwkd12/222850247086)
-</details>
+
   
-<details>
+
   <summary><h3>5. 자바 구조 학습 기록</h3></summary>
 <div markdown="6">
 
   > 1. [자바 코드를 조작하는 다양한 방법 기록(1) - JVM, JDK 그리고 JRE](https://blog.naver.com/cksgurwkd12/222851226744)
   > 2. [자바 코드를 조작하는 다양한 방법 기록(2)](https://blog.naver.com/cksgurwkd12/222851282273)
-</details>
+  > 3. [[Java] interface에서의 static method와 default method](https://blog.naver.com/cksgurwkd12/223027830570)
+  > 4. [[Java] 함수형 프로그래밍과 람다](https://blog.naver.com/cksgurwkd12/223028210780)
 
-<details>
   <summary><h3>6. 객체지향의 사실과 오해, Object 독서 기록</h3></summary>
 <div markdown="7">
 
@@ -113,9 +113,9 @@
   > 2. [[OOP] "객체지향의 사실과 오해" 정리(1) - 실용 관점의 객체지향에 대한 올바른 설명: 8%](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222853324721&parentCategoryNo=&categoryNo=47&viewDate=&isShowPopularPosts=false&from=postList)
   > 3. [[OOP] "객체지향의 사실과 오해" 정리(2) - 협력하는 객체들의 공동체: 15%](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222853714206&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
   > 4. [[OOP] "객체지향의 사실과 오해" 정리(3) - 이상한 나라의 객체  :22%](https://blog.naver.com/PostView.naver?blogId=cksgurwkd12&logNo=222854604359&categoryNo=47&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
-</details>
 
-<details>
+
+
   <summary><h3>7. 스프링 MVC 학습 기록</h3></summary>
 <div markdown="8">
 
@@ -163,12 +163,16 @@
   > 42. [[SPRING-MVC] SPRING MVC 기본 기능 시리즈 (12) - WebConfigurer를 이용한 WebMVC의 요소 확장 完](https://blog.naver.com/cksgurwkd12/222906965701)
   
   
-</details>
-  
-
-<details>
-  <summary><h3>8. 운영체제</h3></summary>
+  <summary><h3>8. 자료구조 학습 기록 </h3></summary>
 <div markdown="9">
+
+  > 1. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (0) - 개요: 시리즈 작성 이유](https://blog.naver.com/cksgurwkd12/223065478401)
+  > 2. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (1-1) - 배열과 동적 배열](https://blog.naver.com/cksgurwkd12/223066191312)
+  > 3. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (1-2) - 단일 연결 리스트](https://blog.naver.com/cksgurwkd12/223067385381)
+  > 4. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (1-3) - 이중 연결 리스트](https://blog.naver.com/cksgurwkd12/223068176526)
+
+  <summary><h3>9. 운영체제</h3></summary>
+<div markdown="10">
 
   > 1. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(0) - 시리즈 작성의 이유, 운영체제란](https://blog.naver.com/cksgurwkd12/222938944676)
   > 2. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(1) - 운영체제가 하는 일 (아주아주 간략하게만)](https://blog.naver.com/cksgurwkd12/222939328469)
@@ -179,13 +183,15 @@
   > 7. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(7) - 프로세스에 대해서 (프로세스, 메모리, 프로그램, CPU)](https://blog.naver.com/cksgurwkd12/222959156424)
   > 8. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(8) - 유니 프로그래밍, 멀티 프로그래밍, 멀티 프로세싱](https://blog.naver.com/cksgurwkd12/222959233314)
   > 9. [[Operating System] 공룡책까지 달달 외울 시간은 없지만 .. 시리즈(9) - PCB의 요소와 프로세스 상태](https://blog.naver.com/cksgurwkd12/222959273917)
-</details>
+
   
+  <summary><h3>10. 리팩토링</h3></summary>
+<div markdown="11">
   
-  
-<details>
+ > 1. [[Refactoring] 응답 클래스를 분리해야 하는 이유](https://blog.naver.com/cksgurwkd12/223013412658)
+
   <summary><h3>0. 에러 로그</h3></summary>
-<div markdown="8">
+<div markdown="12">
 
   > 1. [[SPRING ERROR: about bean] expected single bean but found 2: ~](https://blog.naver.com/cksgurwkd12/222858397767)
   > 2. [[SPRING ERROR: about bean] No bean named 'beanB' available ](https://blog.naver.com/cksgurwkd12/222858385878)
@@ -199,8 +205,7 @@
   > 10. [[PEM ERROR] UNPROTECTED PRIVATE KEY FILE!](https://blog.naver.com/cksgurwkd12/222734604960)
   > 11. [[Error Log] $.cookie is not a function 에러](https://blog.naver.com/cksgurwkd12/222724340184)
   > 12. [[Error] 우분투 iptables PREROUTING 중첩 에러](https://blog.naver.com/cksgurwkd12/222700968102)
-  
-</details>  
+ 
   
 <br>
 <br>
