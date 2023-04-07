@@ -190,8 +190,58 @@
   
  > 1. [[Refactoring] 응답 클래스를 분리해야 하는 이유](https://blog.naver.com/cksgurwkd12/223013412658)
 
-  <summary><h3>0. 에러 로그</h3></summary>
+
+  <summary><h3>11. 도커 학습 기록</h3></summary>
 <div markdown="12">
+  
+ > 1. [[Docker] 주요 명령(1) - Docker image](https://blog.naver.com/cksgurwkd12/222695617901)
+ > 2. [[Docker] 주요 명령(2) - Container 생성, 조회, 삭제](https://blog.naver.com/cksgurwkd12/222696019104)
+ > 3. [[Docker] 주요 명령(3) - Container 실행(start)](https://blog.naver.com/cksgurwkd12/222696232092)
+ > 4. [[Docker] 주요 명령(4) - Container 실행(run)과 가비지 컬렉팅](https://blog.naver.com/cksgurwkd12/222696314702)
+ > 5. [[Docker] 주요 명령(5) - Container 상태 관리 (stop, pause)](https://blog.naver.com/cksgurwkd12/222696341959)
+ > 6. [[Docker] 주요 명령(6) - Container -p option을 통한 포트 포워딩](https://blog.naver.com/cksgurwkd12/222696396426)
+ > 7. [[Docker] 주요 명령(7) - run -v 옵션을 이용한 특정 폴더 바인딩](https://blog.naver.com/cksgurwkd12/222696932411)
+ > 8. [[Docker] 주요 명령(8) - docker system df](https://blog.naver.com/cksgurwkd12/222697019072)
+ > 9. [[Docker] alpine version과 container stats](https://blog.naver.com/cksgurwkd12/222697026806)
+ > 10. [[Docker] docker 자원 관리](https://blog.naver.com/cksgurwkd12/222697043229)
+ > 11. [[Docker] 주요 명령(9) -실행중인 컨테이너 관리](https://blog.naver.com/cksgurwkd12/222697066711)
+ > 12. [[Docker] Dockerfile script를 이용한 이미지 생성](https://blog.naver.com/cksgurwkd12/222697631963)
+ > 13. [[Docker] Dockerfile의 Label (dicription)](https://blog.naver.com/cksgurwkd12/222697916717)
+ > 14. [[Docker] Dockerfile의 COPY](https://blog.naver.com/cksgurwkd12/222697976106)
+ > 15. [[Docker] docker logs, kill](https://blog.naver.com/cksgurwkd12/222698068391)
+ > 16. [[Docker] Dockerfile의 ENTRYPOINT](https://blog.naver.com/cksgurwkd12/222698121105)
+ > 17. [[Docker] Dockerfile 안에서의 RUN [apache image 구현]](https://blog.naver.com/cksgurwkd12/222698145474)
+ > 18. [[Docker] Dockerfile 안에서의 EXPOSE](https://blog.naver.com/cksgurwkd12/222698158404)
+ > 19. [[Docker] Dockerfile 안에서의 ENV](https://blog.naver.com/cksgurwkd12/222698168751)
+ > 20. [[Docker] 도커 컨테이너와 이미지 조사](https://blog.naver.com/cksgurwkd12/222698181780)
+ > 21. [[Docker] 컨테이너 활용과 연결 (Jupyter notebook-mysql)](https://blog.naver.com/cksgurwkd12/222698670903)
+ > 22. [[Docker] --link 옵션 활용](https://blog.naver.com/cksgurwkd12/222698691610)
+ > 23. [[기본소양] Docker compose 작성을 위한 YAML 포맷](https://blog.naver.com/cksgurwkd12/222698723997)
+ > 24. [[Docker] Docker compose 이해](https://blog.naver.com/cksgurwkd12/222698967900)
+ > 25. [[기록] 풀스택을 위한 도커와 최신 서버 기술 nginx 웹 서버 설정 이해1-2 기록](https://blog.naver.com/cksgurwkd12/222699087542)
+
+
+  <summary><h3>12. 클라우드</h3></summary>
+<div markdown="13">
+  
+ > 1. [[Azure] 가상머신 생성 및 flask 웹 배포](https://blog.naver.com/cksgurwkd12/222734649791)
+ > 2. [[Azure] VMSS 활용하기](https://blog.naver.com/cksgurwkd12/222735506753)
+ > 3. [[Azure] auto scale 구축하고 부하 줘보기](https://blog.naver.com/cksgurwkd12/222735801261)
+ > 4. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (1): VM생성](https://blog.naver.com/cksgurwkd12/222742780208)
+ > 5. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (2): VM에서 flask 배포하기](https://blog.naver.com/cksgurwkd12/222742891780)
+ > 6. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (3): flask 서버 띄우기](https://blog.naver.com/cksgurwkd12/222743011972)
+ > 7. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (4): 부팅 디스크 생성](https://blog.naver.com/cksgurwkd12/222743067646)
+ > 8. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (5): 오토스케일링 그룹 생성](https://blog.naver.com/cksgurwkd12/222743088328)
+ > 9. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (6): 오토스케일링 그룹 부하 줘보기](https://blog.naver.com/cksgurwkd12/222743169059)
+ > 10. [[GCP] VM 생성부터 로드 밸런스까지 시리즈 (7): 로드 밸런서](https://blog.naver.com/cksgurwkd12/222743198549)
+ > 11. [[Docker] Spring, flask, mysql 컨테이너 다루기](https://blog.naver.com/cksgurwkd12/222781422773)
+ > 12. [[Docker] 리눅스 환경에서 docker compose 연동하기](https://blog.naver.com/cksgurwkd12/222783067870)
+ > 13. [[배포] 22년도 팀 프로젝트 배포 기록 (1) HTTPS 통신을 위한 SSL 인증서 생성 (ROUTE53 for CLOUDFRONT, EB LoadBalancer)](https://blog.naver.com/cksgurwkd12/222845288814)
+ > 14. [[배포] 22년도 팀 프로젝트 배포 기록 (2) EB와 CloudFront에 SSL 인증서 적용하기](https://blog.naver.com/cksgurwkd12/222845310032)
+ > 15. [[배포] 22년도 팀 프로젝트 배포 기록 (3) - git action을 이용한 CI/CD 구축 (based on Spring)](https://blog.naver.com/cksgurwkd12/222845312289)
+
+  <summary><h3>0. 에러 로그</h3></summary>
+<div markdown="14">
 
   > 1. [[SPRING ERROR: about bean] expected single bean but found 2: ~](https://blog.naver.com/cksgurwkd12/222858397767)
   > 2. [[SPRING ERROR: about bean] No bean named 'beanB' available ](https://blog.naver.com/cksgurwkd12/222858385878)
