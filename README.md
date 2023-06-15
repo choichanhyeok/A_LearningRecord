@@ -105,6 +105,7 @@
   > 2. [자바 코드를 조작하는 다양한 방법 기록(2)](https://blog.naver.com/cksgurwkd12/222851282273)
   > 3. [[Java] interface에서의 static method와 default method](https://blog.naver.com/cksgurwkd12/223027830570)
   > 4. [[Java] 함수형 프로그래밍과 람다](https://blog.naver.com/cksgurwkd12/223028210780)
+  > 4. [[Java] 자바에서 String의 Immutable과 Literal, Object](https://blog.naver.com/cksgurwkd12/223075597140)
 
   <summary><h3>6. 객체지향의 사실과 오해, Object 독서 기록</h3></summary>
 <div markdown="7">
@@ -161,7 +162,9 @@
   > 40. [[SPRING-MVC] SPRING MVC 기본 기능 시리즈 (10) - HTTP MessageConverter](https://blog.naver.com/cksgurwkd12/222906957508)
   > 41. [[SPRING-MVC] SPRING MVC 기본 기능 시리즈 (11) - HttpMessageConverter는 SpringMVC의 어디쯤에서 호출될까?](https://blog.naver.com/cksgurwkd12/222906965046)
   > 42. [[SPRING-MVC] SPRING MVC 기본 기능 시리즈 (12) - WebConfigurer를 이용한 WebMVC의 요소 확장 完](https://blog.naver.com/cksgurwkd12/222906965701)
+  > 43. [[SPRING-MVC2: 활용] 검증 (1): 가장 원초적인 검증 방법과 Binding Result](https://blog.naver.com/cksgurwkd12/223082982925)
   
+
   
   <summary><h3>8. 자료구조 학습 기록 </h3></summary>
 <div markdown="9">
@@ -262,6 +265,7 @@
   > 10. [[PEM ERROR] UNPROTECTED PRIVATE KEY FILE!](https://blog.naver.com/cksgurwkd12/222734604960)
   > 11. [[Error Log] $.cookie is not a function 에러](https://blog.naver.com/cksgurwkd12/222724340184)
   > 12. [[Error] 우분투 iptables PREROUTING 중첩 에러](https://blog.naver.com/cksgurwkd12/222700968102)
+  > 13. [[에러 로그] 짝수 홀수 판별의 함정](https://blog.naver.com/cksgurwkd12/223088429120) 
  
   
 <br>
