@@ -166,7 +166,7 @@
   
 
   
-  <summary><h3>8. 자료구조 학습 기록 </h3></summary>
+  <summary><h3>8. 자료구조, 알고리즘 학습 기록 </h3></summary>
 <div markdown="9">
 
   > 1. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (0) - 개요: 시리즈 작성 이유](https://blog.naver.com/cksgurwkd12/223065478401)
@@ -179,7 +179,8 @@
   > 8. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (2-2): 선택 정렬](https://blog.naver.com/cksgurwkd12/223069414060)
   > 9. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (2-3): 삽입 정렬](https://blog.naver.com/cksgurwkd12/223069457766)
   > 10. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (7-1): 동적 계획법](https://blog.naver.com/cksgurwkd12/223069618295)
-
+  > 11. [[알고리즘] 대강 정리 시리즈 (1): 문자열](https://blog.naver.com/cksgurwkd12/223100139752)
+  > 12. [[알고리즘] 대강 정리 시리즈 (2): 일반 정렬](https://blog.naver.com/cksgurwkd12/223107887634)
 
   <summary><h3>9. 운영체제</h3></summary>
 <div markdown="10">
@@ -249,6 +250,22 @@
  > 13. [[배포] 22년도 팀 프로젝트 배포 기록 (1) HTTPS 통신을 위한 SSL 인증서 생성 (ROUTE53 for CLOUDFRONT, EB LoadBalancer)](https://blog.naver.com/cksgurwkd12/222845288814)
  > 14. [[배포] 22년도 팀 프로젝트 배포 기록 (2) EB와 CloudFront에 SSL 인증서 적용하기](https://blog.naver.com/cksgurwkd12/222845310032)
  > 15. [[배포] 22년도 팀 프로젝트 배포 기록 (3) - git action을 이용한 CI/CD 구축 (based on Spring)](https://blog.naver.com/cksgurwkd12/222845312289)
+ > 16. [[클라우드 기초] 클라우드의 서비스 모델과 도커](https://blog.naver.com/cksgurwkd12/223089639431)
+
+<summary><h3>13. 데이터 베이스</h3></summary>
+<div markdown="14">
+  
+ > 1. [[DB] 데이터베이스 호로록 훑기 시리즈 (0): 작성 이유, 데이터베이스와 DBMS](https://blog.naver.com/cksgurwkd12/223101305942)
+ > 2. [[DB] 데이터베이스 호로록 훑기 시리즈 (1): 트랜잭션의 격리성과 영향도](https://blog.naver.com/cksgurwkd12/223107160081)
+ > 3. [[JavaScript] NodeJs의 모듈(3) - 모듈의 큰 분류 (코어 모듈과 서드파티 모듈)](https://blog.naver.com/cksgurwkd12/223095694911)
+
+<summary><h3>14. 일반</h3></summary>
+<div markdown="15">
+  
+ > 1. [[통신] 데이터 직렬화 형식 (JSON과 XML)과 HTTP Request 그리고 스프링](https://blog.naver.com/cksgurwkd12/223089049667)
+ > 2. [[JavaScript] ECMAScript(ES)와 모던 자바스크립트에 대해서](https://blog.naver.com/cksgurwkd12/223094565864)
+ > 3. [[JavaScript] NodeJs의 모듈(3) - 모듈의 큰 분류 (코어 모듈과 서드파티 모듈)](https://blog.naver.com/cksgurwkd12/223095694911)
+
 
   <summary><h3>0. 에러 로그</h3></summary>
 <div markdown="14">
