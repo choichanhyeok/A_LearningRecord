@@ -181,6 +181,9 @@
   > 10. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (7-1): 동적 계획법](https://blog.naver.com/cksgurwkd12/223069618295)
   > 11. [[알고리즘] 대강 정리 시리즈 (1): 문자열](https://blog.naver.com/cksgurwkd12/223100139752)
   > 12. [[알고리즘] 대강 정리 시리즈 (2): 일반 정렬](https://blog.naver.com/cksgurwkd12/223107887634)
+  > 12. [[알고리즘] 대강 정리 시리즈 (3): 객체 정렬](https://blog.naver.com/cksgurwkd12/223107929048)
+
+
 
   <summary><h3>9. 운영체제</h3></summary>
 <div markdown="10">
