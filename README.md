@@ -173,6 +173,10 @@
   > 5. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (1-4): Iterator](https://blog.naver.com/cksgurwkd12/223068967983)
   > 6. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (1-5): 원형 연결리스트](https://blog.naver.com/cksgurwkd12/223069368350)
   > 7. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (2-1): 버블 정렬](https://blog.naver.com/cksgurwkd12/223069387693)
+  > 8. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (2-2): 선택 정렬](https://blog.naver.com/cksgurwkd12/223069414060)
+  > 9. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (2-3): 삽입 정렬](https://blog.naver.com/cksgurwkd12/223069457766)
+  > 10. [[자료구조] 이 번엔 반드시 끝낸다 자료구조. 시리즈 (7-1): 동적 계획법](https://blog.naver.com/cksgurwkd12/223069618295)
+
 
   <summary><h3>9. 운영체제</h3></summary>
 <div markdown="10">
