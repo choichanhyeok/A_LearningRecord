@@ -98,7 +98,7 @@
 
   
 
-  <summary><h3>5. 자바 구조 학습 기록</h3></summary>
+  <summary><h3>5. 자바 학습 기록</h3></summary>
 <div markdown="6">
 
   > 1. [자바 코드를 조작하는 다양한 방법 기록(1) - JVM, JDK 그리고 JRE](https://blog.naver.com/cksgurwkd12/222851226744)
@@ -106,6 +106,8 @@
   > 3. [[Java] interface에서의 static method와 default method](https://blog.naver.com/cksgurwkd12/223027830570)
   > 4. [[Java] 함수형 프로그래밍과 람다](https://blog.naver.com/cksgurwkd12/223028210780)
   > 4. [[Java] 자바에서 String의 Immutable과 Literal, Object](https://blog.naver.com/cksgurwkd12/223075597140)
+  > 5. [[Java] StringBuilder와 StringBuffer를 쓰는 이유](https://blog.naver.com/cksgurwkd12/223125506752)
+  > 6. [[JAVA] Genric Programming 기초](https://blog.naver.com/cksgurwkd12/223132207419) 
 
   <summary><h3>6. 객체지향의 사실과 오해, Object 독서 기록</h3></summary>
 <div markdown="7">
@@ -182,6 +184,7 @@
   > 11. [[알고리즘] 대강 정리 시리즈 (1): 문자열](https://blog.naver.com/cksgurwkd12/223100139752)
   > 12. [[알고리즘] 대강 정리 시리즈 (2): 일반 정렬](https://blog.naver.com/cksgurwkd12/223107887634)
   > 12. [[알고리즘] 대강 정리 시리즈 (3): 객체 정렬](https://blog.naver.com/cksgurwkd12/223107929048)
+  > 13. [[알고리즘] 대강 정리 시리즈 (4): 시뮬레이션1 - 구간 다루기](https://blog.naver.com/cksgurwkd12/223118391481) 
 
 
 
@@ -268,7 +271,21 @@
  > 1. [[통신] 데이터 직렬화 형식 (JSON과 XML)과 HTTP Request 그리고 스프링](https://blog.naver.com/cksgurwkd12/223089049667)
  > 2. [[JavaScript] ECMAScript(ES)와 모던 자바스크립트에 대해서](https://blog.naver.com/cksgurwkd12/223094565864)
  > 3. [[JavaScript] NodeJs의 모듈(3) - 모듈의 큰 분류 (코어 모듈과 서드파티 모듈)](https://blog.naver.com/cksgurwkd12/223095694911)
+ > 4. [[통신] 처리량과 트래픽, 대여폭의 관계 그리고 RTT](https://blog.naver.com/cksgurwkd12/223126556902)
+ > 5. [[네트워크] 토폴로지: 버스, 스타, 트리, 링, 메시](https://blog.naver.com/cksgurwkd12/223127567763)
+ > 6. [[TCP/IP] TCP/IP 4계층에 대해서](https://blog.naver.com/cksgurwkd12/223131116913)
+ > 7. [[TCP/IP] MTU와 MSS 그리고 PMTUD](https://blog.naver.com/cksgurwkd12/223131411005)
+ > 8. [[TCP/IP] 전송 계층 (transPort)](https://blog.naver.com/cksgurwkd12/223131543367)
 
+
+<summary><h3>15. 테스트코드</h3></summary>
+<div markdown="16">
+  
+ > 1. [[Junit5] 테스트 코드를 위한 도구들 (1) - Junit에 대해서](https://blog.naver.com/cksgurwkd12/223112172410)
+ > 3. [[Junit5] 테스트 코드를 위한 도구들 (2) - junit5.Jupiter.Assertions](https://blog.naver.com/cksgurwkd12/223114220952)
+ > 20. [[TDD 로 배우는 객체지향 설계와 실천] 독서기록 - 6장: 객체지향 설계 원칙](https://blog.naver.com/cksgurwkd12/223113438785)
+ > 21. [[TDD 로 배우는 객체지향 설계와 실천] 독서기록 - 7장: 객체지향 설계의 달성](https://blog.naver.com/cksgurwkd12/223114738118)
+ > 22. [[TDD 로 배우는 객체지향 설계와 실천] 독서기록 - 20장: 내 코드가 개떡같은지 테스트 코드로 확인하는 법](https://blog.naver.com/cksgurwkd12/223121214394) 
 
   <summary><h3>0. 에러 로그</h3></summary>
 <div markdown="14">
